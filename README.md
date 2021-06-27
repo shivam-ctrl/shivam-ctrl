@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam-ctrl
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning CP, Webdev, Data Science and ML
+- 🌱 I’m currently learning CP, Network, Data Science and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9870184678
 
